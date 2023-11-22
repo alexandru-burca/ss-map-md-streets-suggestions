@@ -3,9 +3,9 @@
  * Plugin Name: Streets Suggestions via map.md for WooCommerce
  * Plugin URI: https://wpsimplesolutions.com
  * Description: Woocommerce - Auto suggest street address using map.md API during the Checkout process
- * Version: 1.0.1
- * Requires at least: 5.2
- * Requires PHP: 7.0
+ * Version: 1.0.2
+ * Requires at least: 6.4.1
+ * Requires PHP: 7.4.3
  * Author: WP Simple Solutions
  * Author URI: https://wpsimplesolutions.com
  * Developer: Alexandru Burca
@@ -14,7 +14,7 @@
  * Text Domain: ss-woo-map-md
  * Domain Path: /languages
  * 
- * WC tested up to: 4.9.2
+ * WC tested up to: 8.3.1
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

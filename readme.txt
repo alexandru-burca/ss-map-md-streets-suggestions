@@ -2,9 +2,9 @@
 Contributors: wpsimplesolutions
 Tags: mapmd, woocommerce, moldova strazi, map-md, map.md, streets suggestions
 Requires at least: 5.2
-Tested up to: 5.6
-Requires PHP: 7.0
-Stable tag: 1.0.1
+Tested up to: 6.4.1
+Requires PHP: 7.4.3
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,9 @@ The API key should be generated using this page https://map.md/ro/api/
 3. Checkout - Example 2
 
 == Changelog ==
+= 1.0.2 =
+* Wordpress Compatibility - Ok
+* Woocommerce Compatibility - Ok
 = 1.0.1 =
 * Supports "Apartment, suite, unit"
 = 1.0.0 =
